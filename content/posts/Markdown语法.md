@@ -1,5 +1,5 @@
 ---
-title: "基本知识——Markdown语法"
+title: "Markdown语法"
 date: 2021-05-14T23:21:03+08:00
 draft: false
 tags: [learning, Markdown]
