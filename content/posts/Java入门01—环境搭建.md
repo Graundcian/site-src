@@ -1,7 +1,7 @@
 ---
 title: "Java入门01—环境搭建"
 date: 2021-05-16T21:01:18+08:00
-draft: true
+draft: false
 tags: [learning,Java]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Typora中的PicGO Core配置"
 date: 2021-05-16T23:46:23+08:00
-draft: true
+draft: false
 tags: [Typora, PicGo-Core]
  
 ---
