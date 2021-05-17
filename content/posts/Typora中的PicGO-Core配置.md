@@ -1,10 +1,12 @@
 ---
-title: "Typora中的PicGO Core配置"
+title: "Typora图片自动上传图床"
 date: 2021-05-16T23:46:23+08:00
 draft: false
 tags: [Typora, PicGo-Core]
- 
 ---
+PicGo-Core配置 Github 图床、下载插件、手动配置Config.json(配置文件)、图片时间戳命名
+
+<!--more-->
 
 # 下载PicGo-Core
 
