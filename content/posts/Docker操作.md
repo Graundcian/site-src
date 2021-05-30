@@ -1,8 +1,11 @@
 ---
 title: 'Docker基本设置'
 date: 2020-04-10 06:17:09
+toc: true
+authors: [graundcian]
 tags: [Docker]
 ---
+
 
 设置镜像加速和代理
 <!--more-->

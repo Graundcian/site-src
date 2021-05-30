@@ -2,6 +2,8 @@
 title: "Java入门"
 date: 2021-05-16T21:01:18+08:00
 draft: false
+toc: true
+authors: [graundcian]
 tags: [learning,Java]
 ---
 特性及优势、版本差异、环境搭建、运行机制

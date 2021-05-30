@@ -1,6 +1,8 @@
 ---
 title: 'Raspberry-Pi4安装Resilio-Sync'
 date: 2020-03-13 17:47:08
+toc: true
+authors: [graundcian]
 tags: [Raspberry-Pi]
 ---
 

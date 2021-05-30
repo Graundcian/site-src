@@ -1,13 +1,13 @@
-+++
-author = "Graundcian"
-title = "Git版本控制"
-date = "2019-07-15"
-description = "git基本操作"
-tags = [
-    "git",
-    "linux",
-]
-+++
+---
+title: "Git版本控制"
+authors: [graundcian]
+date: 2019-07-15 16:02:53
+toc: true
+draft: false
+tags: [git,linux]
+---
+
+Git的基本配置、设置代理
 
 <!--more-->
 

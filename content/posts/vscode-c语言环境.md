@@ -1,12 +1,12 @@
 ---
 title: 'Vscode C语言环境'
+toc: true
+authors: [graundcian]
 date: 2020-04-11 04:50:33
 tags: [C,VScode]
 ---
-
 VS code中的配置C语言环境。
-
-<!-- more -->
+<!--more-->
 
 ## 安装MinGW-w64
 - [下载](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z/download)安装
