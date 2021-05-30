@@ -1,7 +1,7 @@
 ---
 title: "Nginx反向代理"
 date: 2021-05-30T11:55:00+08:00
-draft: true
+draft: false
 toc: true
 authors: [graundcian]
 tags: [nginx]
