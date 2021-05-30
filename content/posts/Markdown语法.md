@@ -5,6 +5,7 @@ draft: false
 toc: true
 authors: [graundcian]
 tags: [learning, Markdown]
+featuredImage: https://cdn.jsdelivr.net/gh/Graundcian/images@master/blog/image.26nn6dhfnzuo.png
 ---
 基本的 Markdown 语法
 <!--more-->

@@ -1,8 +1,13 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+toc: true
+authors: [Graundcian]
+lastmod：
 draft: true
-tags: [learning, Java]
+tags: []
+featuredImage:
+
 ---
 
 <!--more-->

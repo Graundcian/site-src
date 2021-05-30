@@ -4,6 +4,7 @@ date: 2020-03-13 17:47:08
 toc: true
 authors: [graundcian]
 tags: [Raspberry-Pi]
+featuredImage: https://cdn.jsdelivr.net/gh/Graundcian/images@master/blog/image20200508110138.png
 ---
 
 

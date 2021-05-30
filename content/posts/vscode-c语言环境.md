@@ -1,8 +1,8 @@
 ---
 title: 'Vscode C语言环境'
+date: 2020-01-11 04:50:33
 toc: true
 authors: [graundcian]
-date: 2020-04-11 04:50:33
 tags: [C,VScode]
 ---
 VS code中的配置C语言环境。

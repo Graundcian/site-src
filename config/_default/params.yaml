@@ -1,8 +1,8 @@
 mainSections:
   - posts
-description: Eureka is a elegant and powerful theme for Hugo.
+description: My Personal Blog.
 
-repoEditURL:
+repoEditURL: https://github.com/Graundcian/site-src/blob/main
 
 dateFormat:
 

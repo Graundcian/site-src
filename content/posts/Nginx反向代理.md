@@ -5,6 +5,7 @@ draft: true
 toc: true
 authors: [graundcian]
 tags: [nginx]
+featuredImage: https://cdn.jsdelivr.net/gh/Graundcian/images@master/blog/simple-nginx-reverse-proxy-for-use-with-organizr.3ngvvawn8140.png
 ---
 
 配置多域名以及多端口号，多个服务部署在同一个服务器，使用不同二级域名指向不同的端口。
