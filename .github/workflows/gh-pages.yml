@@ -30,4 +30,4 @@ jobs:
           external_repository: graundcian/graundcian.github.io
           publish_branch: gh-pages
           publish_dir: ./public
-          cname: miaospi.cn
+          cname: graundcian.cn
