@@ -5,7 +5,7 @@ draft: false
 toc: true
 authors: [graundcian]
 tags: [learning,Java]
-featuredImage: https://cdn.jsdelivr.net/gh/Graundcian/images@master/blog/image.2n6uww3yo3o0.png
+
 ---
 特性及优势、版本差异、环境搭建、运行机制
 

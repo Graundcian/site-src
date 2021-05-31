@@ -5,7 +5,7 @@ draft: false
 toc: true
 authors: [graundcian]
 tags: [Typora, PicGo-Core]
-featuredImage: https://cdn.jsdelivr.net/gh/Graundcian/images@master/blog/image.2n5z0eoijr60.png
+
 ---
 PicGo-Core配置 Github 图床、下载插件、手动配置Config.json(配置文件)、图片时间戳命名
 
