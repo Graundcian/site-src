@@ -15,6 +15,9 @@ social:
   - icon: github
     iconPack: fab
     url: https://github.com/Graundcian
+  - icon: code-branch
+    iconPack: fas
+    url: https://graundcian.up.railway.app/login
 
 weight: 1
 widget:
