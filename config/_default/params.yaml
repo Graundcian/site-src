@@ -15,7 +15,7 @@ colorScheme:
 siteType: Person
 icon: images/icon.png
 publisherName: Graundcian
-publisherLogo:
+publisherLogo: 
 
 highlight:
   handler: highlightjs

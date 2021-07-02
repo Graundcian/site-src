@@ -107,7 +107,7 @@ JOIN order_item_notes oin
 
 ## 3.6 隐式连接语法(Implicit Join Syntax)
 
-### 3.6.1 显式连接语法
+### 3.6.1 显式连接
 
 ~~~sql
 USE sql_store; 
@@ -117,7 +117,7 @@ JOIN customers c
 	ON o.customer_id = c.customer_id
 ~~~
 
-### 3.6.2 隐式连接语法(不建议使用）
+### 3.6.2 隐式连接(不建议使用）
 
 容易忘记写WHERE子句，查询结果会变成 “交叉连接”--笛卡尔积的形式。
 

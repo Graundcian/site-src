@@ -1,5 +1,5 @@
 ---
-title: 最近更新
+title: 最新文章
 draft: false
 # Section you want to display
 section: posts
