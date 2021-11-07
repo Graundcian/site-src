@@ -1,5 +1,5 @@
 ---
-title: SQL学习
+title: SQL
 description:
 toc: false
 authors: [Graundcian]

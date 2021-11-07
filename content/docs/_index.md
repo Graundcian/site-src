@@ -1,4 +1,4 @@
 ---
-title: 专题学习
+title: 专题
 layout: doc-list
 ---
