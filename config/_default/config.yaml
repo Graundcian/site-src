@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://graundcian.cn
 title: Graundcian's Blog
 
 # Comment when installing using Hugo Modules
@@ -8,7 +8,7 @@ theme: eureka
 
 paginate: 10
 copyright: >
-  &copy; 2021 <a href="https://www.graundcian.com/">Graundcian</a>
+  &copy; 2021 <a href="https://www.graundcian.cn/">Graundcian</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
